@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
       title: 'E-Payment',
       theme: ThemeData(
         primaryColor: kPrimaryColor,
-        scaffoldBackgroundColor: Color(0xFF01579B),
+        scaffoldBackgroundColor: Color(0xFFFAFAFA),
       ),
       home: WelcomeScreen(),
     );

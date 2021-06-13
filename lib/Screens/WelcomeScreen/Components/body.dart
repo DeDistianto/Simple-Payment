@@ -4,6 +4,8 @@ import 'package:simplepayment/Screens/WelcomeScreen/Components/background.dart';
 class BodyP extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    return Background();
+    return Scaffold(
+      body: WelcomeBack(),
+    );
   }
 }
