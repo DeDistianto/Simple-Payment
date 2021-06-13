@@ -1,4 +1,10 @@
 # simplepayment
+# UAS - Proyek Akhir Mobile Programming(Kelas B)
+# Nama  : Nathaniel Distianto
+# Nim   : 535180072
+
+Simple Payment merupakan aplikasi electronic payment, yang dapat digunakan di Android dan IOs.
+
 
 A new Flutter application.
 
